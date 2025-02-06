@@ -4,7 +4,7 @@ h3 = int(input("높이는?"))
 
 result = (h1+h2) * h3 / 2
 
-
+# format 사용법
 asdf = "{:.1f}".format(result)
 
 print(asdf)
