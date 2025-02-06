@@ -4,4 +4,4 @@ d = input("일은?")
 
 result = ".".join([y, m, d])
 
-print("%s" % result)
+print(result)
