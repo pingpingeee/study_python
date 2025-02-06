@@ -4,4 +4,7 @@ d = input("일은?")
 
 result = ".".join([y, m, d])
 
-print(result)
+print("join() => ", result)
+
+# sep 활용
+print("sep= =>", y, m, d, sep=".")
