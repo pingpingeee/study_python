@@ -6,4 +6,4 @@ person = {
     "pets": ["강아지", "고양이", "이구아나"],
 }
 
-print(len(person["children"]))
+print("자녀 수 : %d명" % len(person["children"]))
